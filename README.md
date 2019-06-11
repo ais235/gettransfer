@@ -1,2 +1,2 @@
-# gettransfer
+# gett
 тестовый проект
